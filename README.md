@@ -78,7 +78,14 @@ python app.py
 
 ## 📸 Demo
 
-Add screenshots or GIFs here.
+- Normal
+<img src="Assets/kb1.png">
+
+- Piano
+<img src="Assets/kb2.png">
+
+- Dram
+<img src="Assets/kb3.png">
 
 ## 🤝 Contributing
 

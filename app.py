@@ -70,6 +70,8 @@ cooldown = 0.3
 previous_y = None
 tap_threshold = 15
 
+open_palm=None
+
 while True:
 
     success, frame = cap.read()
@@ -211,6 +213,7 @@ while True:
             hand_label = handedness.classification[0].label
 
             print(hand_label)
+            # open_palm=None
 
             if hand_label=='Left':
 
@@ -235,7 +238,7 @@ while True:
     
                     
                     
-                    print(open_palm)
+                    # print(open_palm)
     
                     if open_palm:
                         notes=notes1

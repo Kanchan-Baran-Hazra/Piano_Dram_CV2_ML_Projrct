@@ -79,13 +79,13 @@ python app.py
 ## 📸 Demo
 
 - Normal
-<img src="Assets/kb1.png">
+<img src="Assets/kb1.png" width="700">
 
 - Piano
-<img src="Assets/kb2.png">
+<img src="Assets/kb3.png" width="700">
 
 - Dram
-<img src="Assets/kb3.png">
+<img src="Assets/kb2.png" width="700">
 
 ## 🤝 Contributing
 
